@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">rancolorstr</string>
+    <string name="Printw">printw</string>
+    <string name="Textview">textview</string>
+    <string name="RED">RED</string>
+    <string name="GREEN">GREEN</string>
+    <string name="BLUE">BLUE</string>
+    <string name="Value">value</string>
+    <string name="Button">Button</string>
+</resources>
